@@ -15,7 +15,7 @@
   - [📋 :  صفحه لیست محصولات | PLP](#:clipboard:-Login)
   - [:chair:  صفحه جزئیات محصول | PDP](#:chair:-Login)
   - [:placard:  صفحات ثابت | Static pages](#:placard:-Login)
-  - [🎁  باشگاه مشتریان | Costumer club](#:gift:-Login)
+  - [🎁  باشگاه مشتریان | Customer club](#:gift:-Login)
 
 
 <div dir="ltr">
